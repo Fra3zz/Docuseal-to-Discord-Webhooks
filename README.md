@@ -24,6 +24,6 @@ webhook bot.</p>
 <ol>
     <li>Download files from github repo.</li>
     <li>Install dependencies from requirements.txt filr via pip.</li>
-    <li>Run with <div style="font-weight: bold;">flask run</div></li>
+    <li>Run with "flask run".</li>
 </ol>
 
